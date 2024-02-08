@@ -1,0 +1,20 @@
+
+.negro {
+    background-color: black;
+    color: orange;
+}
+body {
+    background-image: url("img/valenciaaaaa.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+
+.blanco{
+    color: white;
+    background-color: black
+;
+}
+
